@@ -1,16 +1,22 @@
 ### Hi there 👋
+# Hey Everyone! I'm [Gaddam Mahesh](https://github.com/maheshgaddam000)
+<br><br>
 
-<!--
-**maheshgaddam000/maheshgaddam000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/gaddam-mahesh-57205a265/">
+</a>
+<a href="https://github.com/maheshgaddam000">
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## <p align="center"><h4 align="center"><samp> An Python Developer,</samp></h4></p>
+
+<div>
+  <br>
+  
+- 🔭 I’m currently working on Python 
+- 🌱 I’m currently learning Artificial Intelligence
+- 📫 How to reach me: gaddammahesh46@gmail.com
+  <br>
+</div>
 -->
